@@ -1,0 +1,15 @@
+.main{
+    margin-top: 200px;
+    background-color: #000112;
+}
+.img{
+    margin: auto;
+    width: 90%;
+    background:linear-gradient(180deg,red,#000229);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.main .img img{
+    height: 300px;
+}
